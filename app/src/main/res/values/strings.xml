@@ -5,4 +5,7 @@
     <string name="conoces_este_pokemon">¿Conoces este Pokemon?</string>
     <string name="si">Si</string>
     <string name="no">No</string>
+    <string name="abrir">Abrir</string>
+    <string name="salir">Salir</string>
+    <string name="surprised_pikachu">TODO</string>
 </resources>
