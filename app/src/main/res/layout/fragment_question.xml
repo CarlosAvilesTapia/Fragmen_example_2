@@ -15,7 +15,7 @@
         android:layout_height="36dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:text="¿Conoces este Pokemon?"
+        android:text="@string/conoces_este_pokemon"
         android:textColor="@android:color/black"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -36,13 +36,13 @@
             android:id="@+id/Radiosi"
             android:layout_width="105dp"
             android:layout_height="wrap_content"
-            android:text="Si" />
+            android:text="@string/si" />
 
         <RadioButton
             android:id="@+id/radiono"
             android:layout_width="123dp"
             android:layout_height="wrap_content"
-            android:text="No" />
+            android:text="@string/no" />
 
     </RadioGroup>
 
